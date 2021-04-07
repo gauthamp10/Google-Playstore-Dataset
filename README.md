@@ -13,7 +13,7 @@ Also available in Kaggle: https://www.kaggle.com/gauthamp10/google-playstore-app
 
   Website: [gauthamp10.github.io](https://gauthamp10.github.io)
 
-  Blog: [gauthamp10/blog](https://gauthamp10.github.io/blog)
+  Blog: [gauthamp10/blog](https://gauthamp10.github.io/#blog)
 
 ## __License__  
 
