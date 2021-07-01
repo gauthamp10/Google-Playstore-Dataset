@@ -8,7 +8,7 @@ I've collected the data with the help of Python and Scrapy running on a cloud vm
 For latest dataset updates. Download from Kaggle: https://www.kaggle.com/gauthamp10/google-playstore-apps/
 
 
-## Download and combine the dataset
+## Download and combine the datasets
 ```
 git clone https://github.com/gauthamp10/Google-Playstore-Dataset.git
 
