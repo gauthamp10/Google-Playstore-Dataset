@@ -1,5 +1,5 @@
 # Google-Playstore-Dataset
-Google PlayStore App analytics. (2.3 Million App Data) and 23 attributes.
+Google PlayStore App analytics. (2.3 Million App Data) and 24 attributes.
 
 I've collected the data with the help of Python and Scrapy running on a cloud vm.The data was collected on June 2021.
 
