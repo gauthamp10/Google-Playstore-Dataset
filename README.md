@@ -1,7 +1,7 @@
 # Google-Playstore-Dataset
 Google PlayStore App analytics. (2.3 Million App Data) and 24 attributes.
 
-<img src="banner.jpg" width="540" height="250" />
+<img src="banner.jpg" width="700" height="250" />
 
 I've collected the data with the help of Python and Scrapy running on a cloud vm.The data was collected on June 2021.
 
