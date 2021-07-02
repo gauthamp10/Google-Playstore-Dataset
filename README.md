@@ -20,6 +20,8 @@ cat Part?.csv > Googple-Playstore-Dataset.csv
 
 ```
 
+Also checkout the Android App Permission dataset: [https://github.com/gauthamp10/android-permissions-dataset](https://github.com/gauthamp10/android-permissions-dataset) 
+
 
 ## __Author__
 
