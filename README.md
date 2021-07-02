@@ -7,8 +7,7 @@ I've collected the data with the help of Python and Scrapy running on a cloud vm
 
 For latest dataset updates. Download from Kaggle: https://www.kaggle.com/gauthamp10/google-playstore-apps/
 
-
-
+<br/>
 ## Instructions to combine the datasets
 ```
 git clone https://github.com/gauthamp10/Google-Playstore-Dataset.git
@@ -20,9 +19,9 @@ for f in *.tar.gz; do tar -xvf "$f"; done
 cat Part?.csv > Googple-Playstore-Dataset.csv
 
 ```
-
+<br/>
 Also checkout the Android App Permission dataset: [https://github.com/gauthamp10/android-permissions-dataset](https://github.com/gauthamp10/android-permissions-dataset) 
-
+<br/>
 
 ## __Author__
 
