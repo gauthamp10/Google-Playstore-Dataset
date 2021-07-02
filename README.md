@@ -20,9 +20,9 @@ for f in *.tar.gz; do tar -xvf "$f"; done
 cat Part?.csv > Googple-Playstore-Dataset.csv
 
 ```
-<br/>
 
 Also checkout the Android App Permission dataset: [https://github.com/gauthamp10/android-permissions-dataset](https://github.com/gauthamp10/android-permissions-dataset) 
+
 <br/>
 
 ## __Author__
