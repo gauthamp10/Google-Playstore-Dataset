@@ -1,4 +1,4 @@
-# Google-Playstore-Dataset
+# Google-Playstore-Dataset -(Backup repo to store off Kaggle)
 Google PlayStore App analytics. (2.3 Million App Data) and 24 attributes.
 
 <img src="banner.jpg" width="700" height="180" />
